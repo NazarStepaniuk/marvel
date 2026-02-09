@@ -5,6 +5,7 @@ A React-based web app that allows users to explore Marvel characters, view detai
 ---
 
 ## 🚀 Features
+
 - Browse and view detailed information about Marvel characters
 - Smooth navigation between pages using **React Router**
 - Animated transitions with **React Transition Group**
@@ -14,6 +15,7 @@ A React-based web app that allows users to explore Marvel characters, view detai
 ---
 
 ## 🛠️ Tech Stack
+
 - **React 18**
 - **React Router DOM v5**
 - **React Transition Group**
@@ -23,11 +25,19 @@ A React-based web app that allows users to explore Marvel characters, view detai
 
 ---
 
+## 🚀 Live Demo
+
+[👉 Visit the demo](https://marvel-nzpp.vercel.app/)
+
+---
+
 ## 📦 Installation and Setup
 
 Clone the repository:
+
 ```bash
 git clone https://github.com/NazarStepaniuk/Marvel.git
 cd Marvel
 npm install
 npm start
+```
